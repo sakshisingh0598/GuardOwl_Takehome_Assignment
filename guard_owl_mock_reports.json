@@ -1,0 +1,366 @@
+[
+  {
+    "id": "r1000",
+    "siteId": "S01",
+    "date": "2025-08-29T03:15:00Z",
+    "guardId": "G01",
+    "text": "Routine patrol, no incident. Checked garage entrance."
+  },
+  {
+    "id": "r1001",
+    "siteId": "S04",
+    "date": "2025-08-25T01:15:00Z",
+    "guardId": "G02",
+    "text": "Routine patrol, no incident. Checked loading dock."
+  },
+  {
+    "id": "r1002",
+    "siteId": "S02",
+    "date": "2025-08-31T03:35:00Z",
+    "guardId": "G18",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1003",
+    "siteId": "S04",
+    "date": "2025-08-29T02:15:00Z",
+    "guardId": "G11",
+    "text": "Guard observed a red Toyota Camry loitering near the north gate. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1004",
+    "siteId": "S03",
+    "date": "2025-09-03T04:00:00Z",
+    "guardId": "G12",
+    "text": "Guard observed a red Toyota Camry loitering near the loading dock. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1005",
+    "siteId": "S05",
+    "date": "2025-09-03T05:45:00Z",
+    "guardId": "G10",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1006",
+    "siteId": "S02",
+    "date": "2025-08-26T03:05:00Z",
+    "guardId": "G10",
+    "text": "Possible loitering at the east gate; no further action."
+  },
+  {
+    "id": "r1007",
+    "siteId": "S03",
+    "date": "2025-08-28T22:20:00Z",
+    "guardId": "G12",
+    "text": "Possible trespass at the loading dock; PD non-emergency informed."
+  },
+  {
+    "id": "r1008",
+    "siteId": "S04",
+    "date": "2025-08-29T22:55:00Z",
+    "guardId": "G13",
+    "text": "Possible tailgating at the south gate; notified supervisor."
+  },
+  {
+    "id": "r1009",
+    "siteId": "S01",
+    "date": "2025-08-31T04:05:00Z",
+    "guardId": "G11",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1010",
+    "siteId": "S04",
+    "date": "2025-09-01T02:20:00Z",
+    "guardId": "G13",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1011",
+    "siteId": "S05",
+    "date": "2025-09-03T18:25:00Z",
+    "guardId": "G14",
+    "text": "Guard observed a silver Chevy Malibu loitering near the south gate. Color: silver. Model: Chevy Malibu."
+  },
+  {
+    "id": "r1012",
+    "siteId": "S01",
+    "date": "2025-08-27T22:10:00Z",
+    "guardId": "G04",
+    "text": "Report of loitering at loading dock. Vehicle seen: red Toyota Camry. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1013",
+    "siteId": "S05",
+    "date": "2025-09-02T04:40:00Z",
+    "guardId": "G15",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1014",
+    "siteId": "S03",
+    "date": "2025-08-29T18:10:00Z",
+    "guardId": "G04",
+    "text": "Routine patrol, no incident. Checked north gate."
+  },
+  {
+    "id": "r1015",
+    "siteId": "S01",
+    "date": "2025-09-02T21:15:00Z",
+    "guardId": "G10",
+    "text": "Routine patrol, no incident. Checked east gate."
+  },
+  {
+    "id": "r1016",
+    "siteId": "S03",
+    "date": "2025-08-25T01:25:00Z",
+    "guardId": "G16",
+    "text": "Routine patrol, no incident. Checked south gate."
+  },
+  {
+    "id": "r1017",
+    "siteId": "S01",
+    "date": "2025-09-01T01:40:00Z",
+    "guardId": "G03",
+    "text": "Vehicle Suspicious detected near south gate. Guard recorded details."
+  },
+  {
+    "id": "r1018",
+    "siteId": "S05",
+    "date": "2025-08-31T03:40:00Z",
+    "guardId": "G20",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1019",
+    "siteId": "S03",
+    "date": "2025-09-02T19:05:00Z",
+    "guardId": "G15",
+    "text": "Guard observed a red Toyota Camry loitering near the south gate. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1020",
+    "siteId": "S05",
+    "date": "2025-08-28T21:15:00Z",
+    "guardId": "G18",
+    "text": "Guard observed a red Toyota Camry loitering near the north gate. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1021",
+    "siteId": "S01",
+    "date": "2025-08-26T20:15:00Z",
+    "guardId": "G11",
+    "text": "Routine patrol, no incident. Checked garage entrance."
+  },
+  {
+    "id": "r1022",
+    "siteId": "S02",
+    "date": "2025-09-03T19:15:00Z",
+    "guardId": "G19",
+    "text": "Guard observed a blue Honda Civic loitering near the west gate. Color: blue. Model: Honda Civic."
+  },
+  {
+    "id": "r1023",
+    "siteId": "S04",
+    "date": "2025-08-31T18:35:00Z",
+    "guardId": "G12",
+    "text": "Report of geofence breach at garage entrance. Vehicle seen: red Toyota Camry. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1024",
+    "siteId": "S03",
+    "date": "2025-08-28T03:15:00Z",
+    "guardId": "G04",
+    "text": "Possible tailgating at the west gate; area cleared."
+  },
+  {
+    "id": "r1025",
+    "siteId": "S03",
+    "date": "2025-08-28T01:35:00Z",
+    "guardId": "G15",
+    "text": "Guard observed a red Toyota Camry loitering near the north gate. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1026",
+    "siteId": "S02",
+    "date": "2025-08-31T19:35:00Z",
+    "guardId": "G06",
+    "text": "Report of door left ajar at west gate. Vehicle seen: red Toyota Camry. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1027",
+    "siteId": "S01",
+    "date": "2025-08-29T19:20:00Z",
+    "guardId": "G13",
+    "text": "Possible loitering at the garage entrance; returned to route."
+  },
+  {
+    "id": "r1028",
+    "siteId": "S02",
+    "date": "2025-08-28T00:45:00Z",
+    "guardId": "G10",
+    "text": "Guard observed a white Ford F-150 loitering near the north gate. Color: white. Model: Ford F-150."
+  },
+  {
+    "id": "r1029",
+    "siteId": "S05",
+    "date": "2025-09-02T20:10:00Z",
+    "guardId": "G16",
+    "text": "Guard observed a red Toyota Camry loitering near the loading dock. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r1030",
+    "siteId": "S05",
+    "date": "2025-08-28T18:05:00Z",
+    "guardId": "G03",
+    "text": "Routine patrol, no incident. Checked south gate."
+  },
+  {
+    "id": "r1031",
+    "siteId": "S01",
+    "date": "2025-09-03T21:40:00Z",
+    "guardId": "G14",
+    "text": "Possible alarm triggered at the east gate; no further action."
+  },
+  {
+    "id": "r1032",
+    "siteId": "S03",
+    "date": "2025-08-27T22:50:00Z",
+    "guardId": "G13",
+    "text": "Guard observed a white Ford F-150 loitering near the west gate. Color: white. Model: Ford F-150."
+  },
+  {
+    "id": "r1033",
+    "siteId": "S04",
+    "date": "2025-09-03T01:05:00Z",
+    "guardId": "G20",
+    "text": "Possible tailgating at the south gate; verbal warning issued."
+  },
+  {
+    "id": "r1034",
+    "siteId": "S03",
+    "date": "2025-08-28T05:20:00Z",
+    "guardId": "G03",
+    "text": "Routine patrol, no incident. Checked west gate."
+  },
+  {
+    "id": "r1035",
+    "siteId": "S05",
+    "date": "2025-09-02T04:50:00Z",
+    "guardId": "G01",
+    "text": "Guard observed a white Ford F-150 loitering near the south gate. Color: white. Model: Ford F-150."
+  },
+  {
+    "id": "r1036",
+    "siteId": "S05",
+    "date": "2025-08-29T04:45:00Z",
+    "guardId": "G05",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1037",
+    "siteId": "S03",
+    "date": "2025-09-01T04:00:00Z",
+    "guardId": "G17",
+    "text": "Guard observed a black BMW 3 Series loitering near the garage entrance. Color: black. Model: BMW 3 Series."
+  },
+  {
+    "id": "r1038",
+    "siteId": "S01",
+    "date": "2025-08-27T22:20:00Z",
+    "guardId": "G11",
+    "text": "Routine patrol, no incident. Checked garage entrance."
+  },
+  {
+    "id": "r1039",
+    "siteId": "S01",
+    "date": "2025-08-26T23:10:00Z",
+    "guardId": "G04",
+    "text": "Report of tailgating at north gate. Vehicle seen: white Ford F-150. Color: white. Model: Ford F-150."
+  },
+  {
+    "id": "r1040",
+    "siteId": "S02",
+    "date": "2025-08-29T05:00:00Z",
+    "guardId": "G02",
+    "text": "Alarm Triggered detected near south gate. Guard recorded details."
+  },
+  {
+    "id": "r1041",
+    "siteId": "S05",
+    "date": "2025-09-03T23:10:00Z",
+    "guardId": "G14",
+    "text": "Guard observed a blue Honda Civic loitering near the south gate. Color: blue. Model: Honda Civic."
+  },
+  {
+    "id": "r1042",
+    "siteId": "S02",
+    "date": "2025-08-31T22:55:00Z",
+    "guardId": "G11",
+    "text": "Report of door left ajar at east gate. Vehicle seen: blue Honda Civic. Color: blue. Model: Honda Civic."
+  },
+  {
+    "id": "r1043",
+    "siteId": "S01",
+    "date": "2025-08-28T03:35:00Z",
+    "guardId": "G16",
+    "text": "Guard observed a blue Honda Civic loitering near the east gate. Color: blue. Model: Honda Civic."
+  },
+  {
+    "id": "r1044",
+    "siteId": "S02",
+    "date": "2025-08-30T04:05:00Z",
+    "guardId": "G13",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1045",
+    "siteId": "S05",
+    "date": "2025-08-25T01:20:00Z",
+    "guardId": "G11",
+    "text": "Guard observed a white Ford F-150 loitering near the loading dock. Color: white. Model: Ford F-150."
+  },
+  {
+    "id": "r1046",
+    "siteId": "S05",
+    "date": "2025-08-30T23:25:00Z",
+    "guardId": "G14",
+    "text": "Report of loitering at loading dock. Vehicle seen: silver Chevy Malibu. Color: silver. Model: Chevy Malibu."
+  },
+  {
+    "id": "r1047",
+    "siteId": "S05",
+    "date": "2025-08-29T00:55:00Z",
+    "guardId": "G07",
+    "text": "Loitering detected near north gate. Guard recorded details."
+  },
+  {
+    "id": "r1048",
+    "siteId": "S04",
+    "date": "2025-08-30T21:25:00Z",
+    "guardId": "G03",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r1049",
+    "siteId": "S04",
+    "date": "2025-08-31T23:20:00Z",
+    "guardId": "G11",
+    "text": "Short geofence exit detected; guard re-entered within 2 minutes."
+  },
+  {
+    "id": "r2001",
+    "siteId": "S03",
+    "date": "2025-08-27T02:10:00Z",
+    "guardId": "G07",
+    "text": "Guard reported a red Toyota Camry circling the west gate twice at 2:10am. Possible casing. Color: red. Model: Toyota Camry."
+  },
+  {
+    "id": "r2002",
+    "siteId": "S03",
+    "date": "2025-09-03T02:35:00Z",
+    "guardId": "G12",
+    "text": "Follow-up: red Toyota near west gate again; plate partially obscured. Vehicle seen: red Toyota Camry. Color: red. Model: Toyota Camry."
+  }
+]
